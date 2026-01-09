@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/nbbb15092/abc">
-  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="ASITHA MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
+  <img src="https://files.catbox.moe/eshu67.png" alt="ASITHA MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
 </a>
 
 <br><br>
@@ -78,7 +78,7 @@
 <h2 align="center" style="color: #FF0000;">🔥 Deploy Now 🔥</h2>
 
 <div align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/mcerror1-20/abc-123" target="_blank">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/mcerror1-20/visper-md" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20DEPLOY%20ON-HEROKU-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Deploy to Heroku">
   </a>
   <br><br>
